@@ -1,0 +1,10 @@
+@mixin white-text-upper-case {
+    color: #fff;
+    text-transform: uppercase;
+}
+
+@mixin dflex-alignitems-end-direction-column {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
